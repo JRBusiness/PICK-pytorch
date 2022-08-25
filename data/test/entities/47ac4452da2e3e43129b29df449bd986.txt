@@ -1,0 +1,6 @@
+{
+    "PROVIDER_NAME": "BlueShield",
+    "MEM_NAME": "BRANDON MASON",
+    "MEM_ID": "N3L828868402",
+    "GROUP_NUMBER": "266601"
+}

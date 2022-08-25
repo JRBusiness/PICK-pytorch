@@ -1,0 +1,13 @@
+{
+    "PROVIDER_NAME": "Bright HealthCare",
+    "MEM_NAME": "EMILY SHEPHERD",
+    "HEALTH_PLAN": "Gold $0 Deductible + Adult Dental & Vision",
+    "GROUP_NUMBER": "BHPUT",
+    "MEM_ID": "700398310",
+    "PCP": "$0 for 2 then $20",
+    "SUBCRIBER_ID": "001",
+    "EFFECTIVE": "05/01/2022",
+    "RXBIN": "003585",
+    "RXPCN": "ASPROD1",
+    "RXGROUP": "BHG"
+}

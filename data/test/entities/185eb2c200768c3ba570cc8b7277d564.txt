@@ -1,0 +1,9 @@
+{
+    "MEM_NAME": "ROGELIO BUENTELLO",
+    "MEM_ID": "0009761126",
+    "HEALTH_PLAN": "Constant Care Silver",
+    "EFFECTIVE": "02/01/2022",
+    "RXBIN": "004336",
+    "RXPCN": "ADV",
+    "RXGROUP": "RX0850"
+}

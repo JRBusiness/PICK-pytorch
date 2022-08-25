@@ -90,7 +90,7 @@ def processing_image(directory, line, class_writer, index):
                 final.append(v[0])
             writer.writerows(final)
             json.dump(class_text, open(f"data/{directory}/entities/{name}.txt", "w", newline=""), indent=4)
-            class_writer.writerow([index, "document", name])
+            class_writer.writerow([index, "document", f"{name}.jpg"])
 
 
 def converting_ubiai(data):
