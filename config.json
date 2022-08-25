@@ -62,6 +62,7 @@
             "images_folder":"/content/PICK-pytorch/data/images",
             "entities_folder":"/content/PICK-pytorch/data/train/entities",
             "iob_tagging_type":"document_level",
+            "resized_image_size": [480, 960],
             "ignore_error": false
         }
     },
@@ -73,6 +74,7 @@
             "images_folder":"/content/PICK-pytorch/data/images",
             "entities_folder":"/content/PICK-pytorch/data/test/entities",
             "iob_tagging_type":"document_level",
+            "resized_image_size": [480, 960],
             "ignore_error": false
         }
     },
