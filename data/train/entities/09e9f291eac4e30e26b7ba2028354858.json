@@ -1,0 +1,14 @@
+{
+    "PROVIDER_NAME": "MOLINA HEALTHCARE",
+    "SUBSCRIBER_NAME": "NINO RIOS",
+    "MEM_NAME": "XILYS TRETO",
+    "SUBCRIBER_ID": "0002533379",
+    "MEM_ID": "0002369983",
+    "HEALTH_PLAN": "Constant Care Silver 7 150",
+    "EFFECTIVE": "01/01/2022",
+    "PCP": "$5",
+    "OUT_OF_POCKET": "Indv OOPM: $2,850",
+    "RXBIN": "004336",
+    "RXPCN": "ADV",
+    "RXGROUP": "RX0851"
+}

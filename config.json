@@ -57,24 +57,24 @@
     "train_dataset": {
         "type": "PICKDataset",
         "args": {
-            "files_name":"/home/Wen/data/code/PICK/PICK-pytorch/data/data_examples_root/train_samples_list.csv",
-            "boxes_and_transcripts_folder":"boxes_and_transcripts",
-            "images_folder":"images",
-            "entities_folder":"entities",
-            "iob_tagging_type":"box_and_within_box_level",
-            "resized_image_size": [480, 960],
+            "files_name":"data/train.csv",
+            "boxes_and_transcripts_folder":"data/train/boxes_and_transcripts",
+            "images_folder":"data/images",
+            "entities_folder":"data/train/entities",
+            "iob_tagging_type":"documents",
+            // "resized_image_size": [480, 960],
             "ignore_error": false
         }
     },
     "validation_dataset": {
         "type": "PICKDataset",
         "args": {
-            "files_name":"/home/Wen/data/code/PICK/PICK-pytorch/data/data_examples_root/train_samples_list.csv",
-            "boxes_and_transcripts_folder":"boxes_and_transcripts",
+            "files_name":"data/test.csv",
+            "boxes_and_transcripts_folder":"data/train/boxes_and_transcripts",
             "images_folder":"images",
             "entities_folder":"entities",
-            "iob_tagging_type":"box_and_within_box_level",
-            "resized_image_size": [480, 960],
+            "iob_tagging_type":"documents",
+            // "resized_image_size": [480, 960],
             "ignore_error": false
         }
     },
@@ -84,17 +84,17 @@
             "batch_size": 4,
             "shuffle": true,
             "drop_last": true,
-            "num_workers": 8,
+            "num_workers": 4,
             "pin_memory":true
         }
     },
     "val_data_loader": {
           "type": "DataLoader",
           "args":{
-              "batch_size": 4,
+              "batch_size": 2,
               "shuffle": false,
               "drop_last": false,
-              "num_workers": 8,
+              "num_workers": 4,
               "pin_memory":true
           }
       },
