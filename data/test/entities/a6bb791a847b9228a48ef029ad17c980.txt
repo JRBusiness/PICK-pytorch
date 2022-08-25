@@ -1,5 +1,5 @@
 {
-    "PROVIDER_NAME": "BlueShield'",
+    "PROVIDER_NAME": "BlueShield",
     "MEM_NAME": "REBEKAH A PITCHER",
     "MEM_ID": "SWD967403338",
     "HEALTH_PLAN": "$1000 TIERED PLAN",

@@ -1,5 +1,5 @@
 {
-    "PROVIDER_NAME": "NALC Health 'an",
+    "PROVIDER_NAME": "NALC Health an",
     "GROUP_NUMBER": "32",
     "MEM_ID": "N32575155",
     "MEM_NAME": "MICHAEL J WAHLQUIST",

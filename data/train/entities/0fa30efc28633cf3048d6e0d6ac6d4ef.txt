@@ -1,5 +1,5 @@
 {
-    "PROVIDER_NAME": "UnitedHealthcare' R",
+    "PROVIDER_NAME": "UnitedHealthcare R",
     "PAYER_ID": "87726",
     "HEALTH_PLAN": "(80840) 911-87726-04",
     "MEM_ID": "947483861",

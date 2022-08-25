@@ -1,5 +1,5 @@
 {
-    "PROVIDER_NAME": "UnitedHealthcare' 3",
+    "PROVIDER_NAME": "UnitedHealthcare 3",
     "HEALTH_PLAN": "911-87726-04",
     "MEM_ID": "962463998",
     "GROUP_NUMBER": "730152",
