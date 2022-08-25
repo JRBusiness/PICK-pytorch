@@ -1,0 +1,6 @@
+{
+    "PROVIDER_NAME": "Cigna Health and Life Insurance Co.",
+    "GROUP_NUMBER": "2501103",
+    "MEM_ID": "U05449798 04",
+    "MEM_NAME": "Jayson Vance"
+}

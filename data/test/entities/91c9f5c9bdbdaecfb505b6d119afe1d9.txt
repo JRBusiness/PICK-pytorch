@@ -1,0 +1,7 @@
+{
+    "PROVIDER_NAME": "BlueCross BlueShield",
+    "MEM_NAME": "WILLIAM J. BURTON",
+    "MEM_ID": "099967",
+    "RXBIN": "011552",
+    "RXPCN": "ILDR"
+}

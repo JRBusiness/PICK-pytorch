@@ -1,0 +1,9 @@
+{
+    "PROVIDER_NAME": "BlueCross BlueShield",
+    "MEM_NAME": "TITO NANNI",
+    "MEM_ID": "T3R835036173",
+    "GROUP_NUMBER": "274668",
+    "DOB": "01/01/22",
+    "RXBIN": "011552",
+    "RXPCN": "BCTX"
+}

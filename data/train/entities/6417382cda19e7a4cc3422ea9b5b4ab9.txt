@@ -1,0 +1,11 @@
+{
+    "PROVIDER_NAME": "Healthcare",
+    "MEM_NAME": "KAREN DELGADO",
+    "MEM_ID": "956706251",
+    "GROUP_NUMBER": "743256",
+    "DEPENDENTS": "STEVE DELGADO LAUREN DELGADO",
+    "PAYER_ID": "87726",
+    "RXBIN": "610011",
+    "RXPCN": "IRX",
+    "RXGROUP": "Ancestry"
+}

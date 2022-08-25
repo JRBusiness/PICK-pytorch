@@ -1,0 +1,8 @@
+{
+    "PROVIDER_NAME": "Health Benefits",
+    "MEM_NAME": "ERIN WASH",
+    "MEM_ID": "1741000856822",
+    "RXBIN": "004336",
+    "RXPCN": "ADV",
+    "RXGROUP": "RX7977"
+}

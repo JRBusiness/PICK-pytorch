@@ -1,0 +1,8 @@
+{
+    "PROVIDER_NAME": "BlueCross. BlueShield.",
+    "MEM_NAME": "BRIAN L SPEELMAN",
+    "MEM_ID": "R50672310",
+    "EFFECTIVE": "01/03/2010",
+    "RXPCN": "FEPRX",
+    "RXGROUP": "65006500"
+}

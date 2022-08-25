@@ -1,0 +1,6 @@
+{
+    "PROVIDER_NAME": "MEDICAID",
+    "MEM_NAME": "AYDIN SMITH",
+    "MEM_ID": "0906233932",
+    "DOB": "11/11/2002"
+}

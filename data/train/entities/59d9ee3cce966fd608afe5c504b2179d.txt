@@ -1,0 +1,12 @@
+{
+    "PROVIDER_NAME": "P",
+    "HEALTH_PLAN": "911-87726-04",
+    "MEM_ID": "822215024",
+    "GROUP_NUMBER": "2K3996",
+    "MEM_NAME": "JOHN A PIPER",
+    "DEPENDENTS": "LILLY ANDERSON",
+    "PAYER_ID": "87726",
+    "RXBIN": "610279",
+    "RXPCN": "9999",
+    "RXGROUP": "UHC"
+}

@@ -1,0 +1,9 @@
+{
+    "PROVIDER_NAME": "Healthcare",
+    "MEM_NAME": "AMANDA S ALLEMAN",
+    "MEM_ID": "985690042",
+    "GROUP_NUMBER": "920869",
+    "PAYER_ID": "87726",
+    "RXBIN": "610279",
+    "RXPCN": "9999"
+}
