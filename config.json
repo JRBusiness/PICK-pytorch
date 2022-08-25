@@ -62,7 +62,6 @@
             "images_folder":"data/images",
             "entities_folder":"data/train/entities",
             "iob_tagging_type":"documents",
-            // "resized_image_size": [480, 960],
             "ignore_error": false
         }
     },
@@ -74,7 +73,6 @@
             "images_folder":"data/images",
             "entities_folder":"data/test/entities",
             "iob_tagging_type":"documents",
-            // "resized_image_size": [480, 960],
             "ignore_error": false
         }
     },
