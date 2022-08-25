@@ -70,9 +70,9 @@
         "type": "PICKDataset",
         "args": {
             "files_name":"data/test.csv",
-            "boxes_and_transcripts_folder":"data/train/boxes_and_transcripts",
-            "images_folder":"images",
-            "entities_folder":"entities",
+            "boxes_and_transcripts_folder":"data/test/boxes_and_transcripts",
+            "images_folder":"data/images",
+            "entities_folder":"data/test/entities",
             "iob_tagging_type":"documents",
             // "resized_image_size": [480, 960],
             "ignore_error": false

@@ -1,5 +1,5 @@
 {
-    "PROVIDER_NAME": "BlueShield`",
+    "PROVIDER_NAME": "BlueShield",
     "MEM_NAME": "MATTHEW SELLNER",
     "MEM_ID": "602935459",
     "RX_PLAN": "E4",
