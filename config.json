@@ -61,7 +61,7 @@
             "boxes_and_transcripts_folder":"/content/PICK-pytorch/data/train/boxes_and_transcripts",
             "images_folder":"/content/PICK-pytorch/data/images",
             "entities_folder":"/content/PICK-pytorch/data/train/entities",
-            "iob_tagging_type":"documents",
+            "iob_tagging_type":"document_level",
             "ignore_error": false
         }
     },
@@ -72,7 +72,7 @@
             "boxes_and_transcripts_folder":"/content/PICK-pytorch/data/test/boxes_and_transcripts",
             "images_folder":"/content/PICK-pytorch/data/images",
             "entities_folder":"/content/PICK-pytorch/data/test/entities",
-            "iob_tagging_type":"documents",
+            "iob_tagging_type":"document_level",
             "ignore_error": false
         }
     },
