@@ -1,5 +1,0 @@
-{
-    "PROVIDER_NAME": "selecthealth a",
-    "MEM_ID": "802439318",
-    "MEM_NAME": "SUSAN NELSON"
-}

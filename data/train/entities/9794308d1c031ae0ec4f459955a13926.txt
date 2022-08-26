@@ -1,5 +1,0 @@
-{
-    "PROVIDER_NAME": "MEDICAID",
-    "MEM_NAME": "FELICIA WATKINS",
-    "DOB": "10/08/1988"
-}

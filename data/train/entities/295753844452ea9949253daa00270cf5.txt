@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "Anthem",
-    "MEM_NAME": "TRAVIS C CONFER",
-    "MEM_ID": "NGO734W05743",
-    "GROUP_NUMBER": "174022MAAF",
-    "HEALTH_PLAN": "040"
-}

@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "motivhealth e",
-    "MEM_NAME": "Cory Wilkinson",
-    "MEM_ID": "000032049",
-    "RXBIN": "015202",
-    "GROUP_NUMBER": "PECZUH1SN",
-    "RXPCN": "SGRX"
-}

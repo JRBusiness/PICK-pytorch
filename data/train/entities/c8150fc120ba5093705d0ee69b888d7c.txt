@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "BlueCross. BlueShield.",
-    "MEM_NAME": "CARA MOLLENKOPF",
-    "MEM_ID": "R58135059",
-    "EFFECTIVE": "01/10/2016",
-    "RXBIN": "610239",
-    "RXPCN": "FEPRX",
-    "RXGROUP": "65006500"
-}

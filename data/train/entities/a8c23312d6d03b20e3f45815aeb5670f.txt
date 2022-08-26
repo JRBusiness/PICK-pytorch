@@ -1,9 +1,0 @@
-{
-    "GROUP_NUMBER": "0932",
-    "MEM_NAME": "BRIAN MEYER",
-    "MEM_ID": "0932031545",
-    "PROVIDER_NAME": "Health Utah PHYSICIANS NETWORK",
-    "RXBIN": "017449",
-    "RXPCN": "6792000",
-    "RXGROUP": "PRXMBA"
-}

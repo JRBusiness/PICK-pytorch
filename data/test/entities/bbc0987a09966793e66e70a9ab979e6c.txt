@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "Federal Employee Program a",
-    "MEM_NAME": "BRADLEY C HARRISON",
-    "MEM_ID": "R59188354",
-    "EFFECTIVE": "02/06/2005",
-    "RXPCN": "FEPRX",
-    "RXGROUP": "65006500"
-}

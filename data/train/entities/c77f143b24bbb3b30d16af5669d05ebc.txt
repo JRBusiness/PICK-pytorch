@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "UnitedHealthcare\" .",
-    "HEALTH_PLAN": "911-87726-04",
-    "MEM_ID": "941148379",
-    "GROUP_NUMBER": "730152",
-    "MEM_NAME": "JEANETTE M BEAN",
-    "DEPENDENTS": "NATHANIEL BEAN",
-    "PAYER_ID": "87726"
-}

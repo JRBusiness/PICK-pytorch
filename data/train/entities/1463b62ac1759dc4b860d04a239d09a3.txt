@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "aetna",
-    "ISSUER_ID": "(80840)9140860054",
-    "GROUP_NUMBER": "143514-14-009",
-    "MEM_ID": "W2723 84956",
-    "MEM_NAME": "WARNEKA",
-    "RXBIN": "610502"
-}

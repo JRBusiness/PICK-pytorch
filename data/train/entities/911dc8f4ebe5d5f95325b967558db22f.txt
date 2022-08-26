@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "C",
-    "MEM_NAME": "SGRX",
-    "MEM_ID": "000032049",
-    "HEALTH_PLAN": "015202",
-    "GROUP_NUMBER": "PECZUH1SN"
-}

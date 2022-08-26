@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "Cigna antilite Insurance Ca",
-    "GROUP_NUMBER": "3342095",
-    "PCP": "25%",
-    "MEM_ID": "UD9B54108 02",
-    "MEM_NAME": "Mar\u00c3\u00adcela Zavala"
-}

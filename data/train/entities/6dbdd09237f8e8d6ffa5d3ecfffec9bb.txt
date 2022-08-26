@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "BlueCross BlueShield",
-    "SUBSCRIBER_NAME": "ROBERT FAWSON",
-    "SUBCRIBER_ID": "ZGP830827573",
-    "GROUP_NUMBER": "249493",
-    "COVERAGE_DATE": "01/01/19",
-    "RXBIN": "011552",
-    "RXPCN": "BCTX"
-}

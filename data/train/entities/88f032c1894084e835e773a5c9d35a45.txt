@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "ADMINISTRATORS",
-    "PAYER_ID": "DCA62",
-    "MEM_NAME": "Dillon J Darger",
-    "MEM_ID": "ID#:A8EEB4962",
-    "RXBIN": "017449",
-    "RXPCN": "6792000",
-    "RXGROUP": "PRXQBS"
-}

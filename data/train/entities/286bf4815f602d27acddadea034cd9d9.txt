@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "Anthem",
-    "MEM_NAME": "ZACHARY HEATON",
-    "MEM_ID": "C4V014W03272",
-    "GROUP_NUMBER": "174591M3A0",
-    "PLAN_CODE": "102"
-}

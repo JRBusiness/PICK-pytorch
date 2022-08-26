@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "BlueShield",
-    "MEM_NAME": "TRAVIS R CROSBY",
-    "MEM_ID": "602499836",
-    "GROUP_NUMBER": "4000083",
-    "HEALTH_PLAN": "HEALTH SAVINGS PLAN",
-    "RXBIN": "003858",
-    "RXPCN": "A4"
-}

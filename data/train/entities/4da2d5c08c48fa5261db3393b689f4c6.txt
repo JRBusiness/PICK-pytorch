@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "Anthem",
-    "MEM_NAME": "DARLA L FULLER",
-    "MEM_ID": "XFW494W06186",
-    "GROUP_NUMBER": "L00825M001",
-    "RXBIN": "020099/WG",
-    "RXGROUP": "WLEA"
-}

@@ -1,6 +1,0 @@
-{
-    "PROVIDER_NAME": "BlueShield",
-    "MEM_NAME": "HALEY SIMS",
-    "MEM_ID": "LJX826460248",
-    "GROUP_NUMBER": "256922"
-}

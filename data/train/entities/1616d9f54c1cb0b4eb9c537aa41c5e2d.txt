@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "BlueShield.",
-    "MEM_NAME": "DARBY CALWELL",
-    "MEM_ID": "R60109557",
-    "RXBIN": "610239",
-    "RXPCN": "FEPRX",
-    "RXGROUP": "65006500"
-}

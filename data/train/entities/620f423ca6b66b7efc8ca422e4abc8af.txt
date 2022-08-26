@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "MOLINA HEALTHCARE",
-    "MEM_NAME": "TAEJSIA A WALLACE",
-    "MEM_ID": "0901957770",
-    "HEALTH_PLAN": "Molina Utah Medicaid",
-    "RXBIN": "004336",
-    "RXPCN": "ADV",
-    "RXGROUP": "RX0415"
-}

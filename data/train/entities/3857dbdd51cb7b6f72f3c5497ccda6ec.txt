@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "R",
-    "MEM_NAME": "WILLIAM B WOOD",
-    "MEM_ID": "R58400892",
-    "RXBIN": "610239",
-    "EFFECTIVE": "01/12/2014",
-    "RXPCN": "FEPRX",
-    "RXGROUP": "65006500"
-}

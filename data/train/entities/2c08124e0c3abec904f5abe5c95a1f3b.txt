@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "Cigna Health and Life Insurance Co.",
-    "COVERAGE_DATE": "01/01/2021",
-    "GROUP_NUMBER": "3343884",
-    "MEM_ID": "U24116175 02",
-    "MEM_NAME": "Carly Frost"
-}

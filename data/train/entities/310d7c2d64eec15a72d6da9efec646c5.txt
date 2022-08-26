@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "Anthem",
-    "MEM_NAME": "OLIVIA M KROL",
-    "MEM_ID": "XRQ848W00325",
-    "GROUP_NUMBER": "201060M2A1",
-    "PLAN_CODE": "425",
-    "RXBIN": "004336/ADV",
-    "RXGROUP": "RX6034"
-}

@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "A UnitedHealthcare Company",
-    "MEM_ID": "24255435",
-    "GROUP_NUMBER": "76-412228",
-    "MEM_NAME": "TERRY GLEAVE 00 MED",
-    "RXBIN": "610602",
-    "RXPCN": "NVT",
-    "RXGROUP": "DNI"
-}

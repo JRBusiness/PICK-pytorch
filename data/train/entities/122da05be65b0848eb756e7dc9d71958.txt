@@ -1,7 +1,0 @@
-{
-    "MEM_NAME": "Dora Fonoti",
-    "MEM_ID": "000044115",
-    "RXBIN": "015202",
-    "GROUP_NUMBER": "BHIVE05AS",
-    "RXPCN": "SGRX"
-}

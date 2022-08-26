@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "Anthem",
-    "MEM_NAME": "STANLEY J GEORGE",
-    "MEM_ID": "NGO485A23220",
-    "GROUP_NUMBER": "174022MJAF",
-    "PLAN_CODE": "040"
-}

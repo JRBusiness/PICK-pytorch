@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "motivhealth 0",
-    "MEM_NAME": "Ann Wadsworth",
-    "MEM_ID": "000032555",
-    "RXBIN": "015202",
-    "GROUP_NUMBER": "WADS001SN",
-    "RXPCN": "SGRX"
-}

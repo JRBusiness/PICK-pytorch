@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "Healthcare",
-    "MEM_NAME": "ANGELINA DEW",
-    "MEM_ID": "988709004",
-    "GROUP_NUMBER": "708809",
-    "PAYER_ID": "87726"
-}

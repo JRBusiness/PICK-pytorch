@@ -1,6 +1,0 @@
-{
-    "PROVIDER_NAME": "BlueShield di",
-    "MEM_NAME": "M D COLVIN",
-    "MEM_ID": "HBX3HZN13600740",
-    "GROUP_NUMBER": "75906-0000"
-}

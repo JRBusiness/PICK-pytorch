@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "ence",
-    "MEM_NAME": "TYSON J TRUJILLO",
-    "DEPENDENTS": "M. TRUJILLO",
-    "MEM_ID": "WRL190254049",
-    "GROUP_NUMBER": "60021265",
-    "RXBIN": "610648",
-    "RXPCN": "01890000"
-}

@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "Humana R HUMANACHOICE (PPO)",
-    "MEM_NAME": "VICTOR C ASHBY",
-    "MEM_ID": "H76713789",
-    "PLAN_CODE": "(80840) 9140461101",
-    "RXBIN": "015581",
-    "RXPCN": "03200000",
-    "RXGROUP": "X2628"
-}

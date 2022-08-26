@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "Independence",
-    "MEM_NAME": "NIKULINA",
-    "PCP": "PCP $20",
-    "MEM_ID": "CDQ132855933001",
-    "GROUP_NUMBER": "10107222"
-}

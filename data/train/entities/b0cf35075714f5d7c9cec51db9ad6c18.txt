@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "BlueCross BlueShield",
-    "SUBSCRIBER_NAME": "ALEX C ROBISON",
-    "GROUP_NUMBER": "14164511",
-    "RXBIN": "015905",
-    "EFFECTIVE": "04/01/22",
-    "SUBCRIBER_ID": "V2A104860686"
-}

@@ -1,5 +1,0 @@
-{
-    "PROVIDER_NAME": "Cigna Health and Life Insurance Co.",
-    "MEM_ID": "384338429 06",
-    "MEM_NAME": "Trever Glaubensklee"
-}

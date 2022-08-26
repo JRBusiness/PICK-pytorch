@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "of Tennessee",
-    "HEALTH_PLAN": "Deductible",
-    "SUBSCRIBER_NAME": "BLACK",
-    "NETWORK": "ind. 54800 Ind. $10500 ifam BODDO Fam. $21000",
-    "SUBCRIBER_ID": "EBW908728707",
-    "GROUP_NUMBER": "130446"
-}

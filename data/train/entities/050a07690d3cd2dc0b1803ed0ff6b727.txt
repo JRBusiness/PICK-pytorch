@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "Cigna Health and Life Insurance Co.",
-    "EFFECTIVE": "01/01/2022",
-    "GROUP_NUMBER": "3344597",
-    "MEM_ID": "U81619490 03",
-    "MEM_NAME": "Ava Wee"
-}

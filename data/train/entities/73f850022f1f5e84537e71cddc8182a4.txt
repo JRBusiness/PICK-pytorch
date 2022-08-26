@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "EBTX",
-    "MEM_NAME": "WHITNEY LANGFORD",
-    "GROUP_NUMBER": "0710473",
-    "DOB": "06/24/2019",
-    "RXBIN": "017010",
-    "RXPCN": "0519PAYR"
-}

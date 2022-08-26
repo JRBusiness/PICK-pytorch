@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "Regence",
-    "MEM_NAME": "JASON P. SOUTH",
-    "MEM_ID": "XNE170023174",
-    "RXBIN": "610648",
-    "RXPCN": "01820000",
-    "DEPENDENTS": "REGAN T. SOUTH"
-}

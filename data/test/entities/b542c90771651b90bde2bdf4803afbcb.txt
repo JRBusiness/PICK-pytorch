@@ -1,5 +1,0 @@
-{
-    "PROVIDER_NAME": "selecthealth. e",
-    "MEM_ID": "802565438",
-    "SUBSCRIBER_NAME": "PERCIE LECHEMINANT"
-}

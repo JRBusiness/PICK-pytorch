@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "aetna TM",
-    "GROUP_NUMBER": "834970-011-00001",
-    "ISSUER_ID": "(80840)9140860054",
-    "MEM_ID": "W2579 17234",
-    "MEM_NAME": "JAIME A SERRANO RIVERA",
-    "PCP": "James S Robbins",
-    "RXBIN": "610502"
-}

@@ -1,6 +1,0 @@
-{
-    "PROVIDER_NAME": "NIVERSITY OF+UTAH",
-    "GROUP_NUMBER": "1641810375",
-    "MEM_NAME": "Ryan Anderson",
-    "MEM_ID": "0003457442"
-}

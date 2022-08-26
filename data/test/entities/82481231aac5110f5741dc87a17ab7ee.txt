@@ -1,6 +1,0 @@
-{
-    "PROVIDER_NAME": "MEDICAID",
-    "MEM_NAME": "BRONSON IRWIN",
-    "MEM_ID": "0311906895",
-    "DOB": "11/07/2016"
-}

@@ -1,6 +1,0 @@
-{
-    "PROVIDER_NAME": "HEALTH MEDICAID",
-    "MEM_NAME": "FREGOSO FLORES",
-    "MEM_ID": "0910131486",
-    "DOB": "10/14/2008"
-}

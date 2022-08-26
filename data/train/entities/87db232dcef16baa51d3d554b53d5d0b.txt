@@ -1,6 +1,0 @@
-{
-    "PROVIDER_NAME": "MEDICAID",
-    "MEM_NAME": "GALILEA ESPINOZA",
-    "MEM_ID": "0412177193",
-    "DOB": "02/19/2019"
-}

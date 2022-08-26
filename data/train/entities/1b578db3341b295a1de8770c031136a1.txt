@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "Cigna Health and Life Insurance Co.",
-    "COVERAGE_DATE": "01/01/2019",
-    "GROUP_NUMBER": "3319768",
-    "ISSUER_ID": "(80840)",
-    "MEM_ID": "U20435399 03",
-    "MEM_NAME": "Camryn Craig",
-    "PCP": "Rose Griffin"
-}

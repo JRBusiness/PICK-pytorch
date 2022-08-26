@@ -1,5 +1,0 @@
-{
-    "PROVIDER_NAME": "A",
-    "MEM_ID": "ID:802333084",
-    "MEM_NAME": "KRISTY NIELSEN"
-}

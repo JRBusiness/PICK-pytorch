@@ -1,7 +1,0 @@
-{
-    "MEM_NAME": "BUT",
-    "GROUP_NUMBER": "78700020",
-    "EFFECTIVE": "04/01/2022",
-    "RXBIN": "610602",
-    "DEPENDENTS": "Luke L Maxwell"
-}

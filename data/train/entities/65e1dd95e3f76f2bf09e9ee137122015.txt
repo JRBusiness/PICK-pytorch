@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "BlueCross",
-    "MEM_NAME": "TYLER ANGUS",
-    "MEM_ID": "OEHOE2500958",
-    "GROUP_NUMBER": "610029",
-    "PLAN_CODE": "040",
-    "RXPCN": "CRK",
-    "RXGROUP": "OEHWF"
-}

@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "Blue Cross BlueShield",
-    "MEM_NAME": "MATTHEW A SANDERS",
-    "HEALTH_PLAN": "Health Benefit Plan",
-    "MEM_ID": "NEI801062476",
-    "GROUP_NUMBER": "P13346"
-}

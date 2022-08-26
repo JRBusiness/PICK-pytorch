@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "EMI HEALTH`",
-    "MEM_NAME": "Nicole Oakeson",
-    "MEM_ID": "24771182179",
-    "RXBIN": "610014",
-    "RXGROUP": "EMIARXD",
-    "OUT_OF_POCKET": "$4,000/$8,000",
-    "GROUP_NUMBER": "0197172"
-}

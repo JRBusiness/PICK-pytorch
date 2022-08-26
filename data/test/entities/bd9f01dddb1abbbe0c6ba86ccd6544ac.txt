@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "Regence",
-    "HEALTH_PLAN": "HSA Plan 3.0",
-    "MEM_NAME": "BOYAKIN",
-    "GROUP_NUMBER": "10034797",
-    "RXBIN": "610648",
-    "MEM_ID": "QUM170268088",
-    "DEPENDENTS": "ALEC R. BOYAKIN"
-}

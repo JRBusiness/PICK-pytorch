@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "Anthem R",
-    "MEM_NAME": "JOHN JORDAN",
-    "MEM_ID": "FZX618A77989",
-    "GROUP_NUMBER": "201028M1PH",
-    "PLAN_CODE": "425"
-}

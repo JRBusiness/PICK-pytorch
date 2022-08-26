@@ -1,6 +1,0 @@
-{
-    "PROVIDER_NAME": "Humana",
-    "MEM_NAME": "MICHAEL BAILLARGEON",
-    "GROUP_NUMBER": "839921",
-    "DEPENDENTS": "ALEX HAAG"
-}

@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "Regence",
-    "MEM_NAME": "GARCIA",
-    "GROUP_NUMBER": "10036270",
-    "RXBIN": "610648",
-    "RXPCN": "01890000",
-    "MEM_ID": "ZHL210064187",
-    "DEPENDENTS": "CHRISTIAN P. GARCIA"
-}

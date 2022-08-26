@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "BlueCross BlueShield",
-    "SUBSCRIBER_NAME": "ROBB R KERRY",
-    "GROUP_NUMBER": "70426",
-    "EFFECTIVE": "10-01-2021",
-    "RXBIN": "004915"
-}
