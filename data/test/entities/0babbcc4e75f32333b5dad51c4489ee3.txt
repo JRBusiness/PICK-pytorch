@@ -1,0 +1,7 @@
+{
+    "PROVIDER_NAME": "Regence",
+    "MEM_NAME": "POLLICK",
+    "GROUP_NUMBER": "10011845",
+    "MEM_ID": "UOU900992858",
+    "DEPENDENTS": "GRACIE B. POLLICK"
+}

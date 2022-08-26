@@ -1,0 +1,10 @@
+{
+    "PROVIDER_NAME": "BlueShield",
+    "MEM_NAME": "VAL C. HOLST II",
+    "MEM_ID": "SBP826143363",
+    "GROUP_NUMBER": "246237",
+    "EFFECTIVE": "01/01/20",
+    "RXBIN": "003858",
+    "RXGROUP": "SBHRX01",
+    "RXPCN": "A4"
+}

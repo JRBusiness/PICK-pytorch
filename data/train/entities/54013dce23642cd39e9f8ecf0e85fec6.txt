@@ -1,0 +1,8 @@
+{
+    "PROVIDER_NAME": "PREMERA",
+    "MEM_NAME": "430",
+    "MEM_ID": "603185795",
+    "GROUP_NUMBER": "1000010",
+    "RXGROUP": "BCWAPDP",
+    "RXBIN": "610014"
+}

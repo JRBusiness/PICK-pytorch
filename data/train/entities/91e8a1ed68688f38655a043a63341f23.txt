@@ -1,0 +1,9 @@
+{
+    "PROVIDER_NAME": "BlueShield A",
+    "MEM_NAME": "SIERRA J JEFFERY",
+    "MEM_ID": "603369546",
+    "GROUP_NUMBER": "4000083",
+    "RXGROUP": "AMAZON1",
+    "RXBIN": "003858",
+    "RXPCN": "A4"
+}

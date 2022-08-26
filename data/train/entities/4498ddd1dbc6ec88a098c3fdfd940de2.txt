@@ -1,0 +1,6 @@
+{
+    "PROVIDER_NAME": "BlueCross BlueShield",
+    "MEM_NAME": "HEIDI S. WALLICK",
+    "MEM_ID": "LJX820941425",
+    "GROUP_NUMBER": "256922"
+}

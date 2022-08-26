@@ -1,0 +1,10 @@
+{
+    "PROVIDER_NAME": "HEALTH",
+    "HEALTH_PLAN": "HDHP Medical Plan",
+    "GROUP_NUMBER": "15323",
+    "MEM_NAME": "JASMINE M BEAN",
+    "MEM_ID": "8143753488",
+    "RXBIN": "015433",
+    "RXPCN": "a",
+    "RXGROUP": "045433"
+}

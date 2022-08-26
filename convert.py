@@ -61,12 +61,12 @@ def merge_boxes(box1, box2):
 def processing_image(directory, line, class_writer, index):
     name = line['documentName'].split('.jpg_')[0]
     writer = csv.writer(open(f"data/{directory}/boxes_and_transcripts/{name}.tsv", "w", newline=""))
+    final = []
+    class_text = {}
     if line['annotation']:
         bboxs = line['annotation']
         if bboxs:
             inner_dex = 0
-            final = []
-            class_text = {}
             for item in bboxs:
                 inner_dex += 1
                 bbox_line = {}
@@ -91,9 +91,9 @@ def processing_image(directory, line, class_writer, index):
                 for k, v in bbox_line.items():
                     v[0].insert(0, inner_dex)
                     final.append(v[0])
-            writer.writerows(final)
-            json.dump(class_text, open(f"data/{directory}/entities/{name}.txt", "w", newline=""), indent=4)
-            class_writer.writerow([index, "document", f"{name}.jpg"])
+    writer.writerows(final)
+    json.dump(class_text, open(f"data/{directory}/entities/{name}.txt", "w", newline=""), indent=4)
+    class_writer.writerow([index, "document", f"{name}.jpg"])
 
 
 def converting_ubiai(data):

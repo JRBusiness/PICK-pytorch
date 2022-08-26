@@ -1,0 +1,10 @@
+{
+    "PROVIDER_NAME": "Anthem",
+    "MEM_NAME": "TAMARA C TAGGART",
+    "MEM_ID": "XDP394A50534",
+    "RXBIN": "020099",
+    "RXPCN": "WG",
+    "RXGROUP": "WLHA",
+    "PLAN_CODE": "040",
+    "GROUP_NUMBER": "175031M103"
+}

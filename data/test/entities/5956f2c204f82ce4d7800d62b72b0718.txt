@@ -1,0 +1,9 @@
+{
+    "PROVIDER_NAME": "Regence",
+    "MEM_NAME": "MCKILLIP",
+    "DEPENDENTS": "MARLEE MCKILLIP",
+    "MEM_ID": "WRL210288227",
+    "GROUP_NUMBER": "60021265",
+    "RXBIN": "610648",
+    "RXPCN": "01890000"
+}

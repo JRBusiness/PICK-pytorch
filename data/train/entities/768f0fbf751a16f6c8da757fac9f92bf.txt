@@ -1,0 +1,8 @@
+{
+    "DOB": "Humana",
+    "EFFECTIVE": "11/06/2021",
+    "MEM_NAME": "BRET A SECHLER",
+    "MEM_ID": "X3009",
+    "RXBIN": "015581",
+    "RXPCN": "03200000"
+}

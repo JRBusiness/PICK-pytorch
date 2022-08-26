@@ -1,0 +1,10 @@
+{
+    "PROVIDER_NAME": "Regence",
+    "HEALTH_PLAN": "HSA Plan 3.0",
+    "MEM_NAME": "MILLER",
+    "GROUP_NUMBER": "10007064",
+    "RXBIN": "610648",
+    "RXPCN": "01890000",
+    "MEM_ID": "TFB190172430",
+    "DEPENDENTS": "AUDREY J. BAIER"
+}

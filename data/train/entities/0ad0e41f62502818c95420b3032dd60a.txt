@@ -1,0 +1,12 @@
+{
+    "PROVIDER_NAME": "Cigna Health and Life Insurance Company",
+    "GROUP_NUMBER": "00631591",
+    "ISSUER_ID": "(80840)",
+    "MEM_ID": "106092631",
+    "MEM_NAME": "Katherine Collet",
+    "PCP": "None Selected",
+    "RXBIN": "017010",
+    "RXPCN": "0518GWH",
+    "RXGROUP": "00631591",
+    "RXID": "106092631  00"
+}

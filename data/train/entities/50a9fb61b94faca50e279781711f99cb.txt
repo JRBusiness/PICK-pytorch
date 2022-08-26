@@ -1,0 +1,9 @@
+{
+    "PROVIDER_NAME": "globalpayments",
+    "MEM_NAME": "TRAYCEN JUDGE",
+    "MEM_ID": "G4D333W07352",
+    "GROUP_NUMBER": "174614M7GN",
+    "PLAN_CODE": "102",
+    "RXBIN": "004336/ADV",
+    "RXGROUP": "RX3641"
+}
