@@ -1,0 +1,8 @@
+{
+    "PROVIDER_NAME": "Cigna Health and Life Insurance Co.",
+    "COVERAGE_DATE": "02/07/2022",
+    "GROUP_NUMBER": "3327984",
+    "MEM_ID": "U83233334 01",
+    "MEM_NAME": "Elizabeth Donnelly",
+    "NETWORK": "Network Savings Program"
+}

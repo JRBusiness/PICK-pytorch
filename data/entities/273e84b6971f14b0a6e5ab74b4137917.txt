@@ -1,0 +1,11 @@
+{
+    "PROVIDER_NAME": "California",
+    "MEM_NAME": "ZACHARY B FISHER",
+    "MEM_ID": "997728068",
+    "GROUP_NUMBER": "903815",
+    "DEPENDENTS": "ALYSSA M FISHER ESAIAS W FISHER",
+    "PAYER_ID": "87726",
+    "RXBIN": "610279",
+    "RXPCN": "9999",
+    "RXGROUP": "UHEALTH"
+}

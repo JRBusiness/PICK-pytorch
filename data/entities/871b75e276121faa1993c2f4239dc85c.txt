@@ -1,0 +1,9 @@
+{
+    "PROVIDER_NAME": "UMR",
+    "MEM_ID": "18938962",
+    "MEM_NAME": "GREGORY",
+    "RXBIN": "004336",
+    "DEPENDENTS": "SOPHIE GREGORY 02 MED",
+    "RXPCN": "ADV",
+    "RXGROUP": "RX7944"
+}

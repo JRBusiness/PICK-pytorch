@@ -1,0 +1,8 @@
+{
+    "PROVIDER_NAME": "UnitedHealthcare\" 2",
+    "HEALTH_PLAN": "(80840) 911-87726-04",
+    "MEM_ID": "979812844",
+    "GROUP_NUMBER": "703995",
+    "MEM_NAME": "SHANDEL HALL",
+    "PAYER_ID": "87726"
+}

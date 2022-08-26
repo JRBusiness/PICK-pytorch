@@ -1,0 +1,9 @@
+{
+    "PROVIDER_NAME": "BlueCross BlueShield",
+    "MEM_NAME": "BANIK",
+    "MEM_ID": "ZGP829025379",
+    "GROUP_NUMBER": "255187",
+    "EFFECTIVE": "01/01/19",
+    "RXBIN": "011552",
+    "RXPCN": "BCTX"
+}

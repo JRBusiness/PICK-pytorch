@@ -1,0 +1,6 @@
+{
+    "PROVIDER_NAME": "BlueCross BlueShield",
+    "MEM_NAME": "CARLON",
+    "RXBIN": "004336",
+    "RXPCN": "ADV"
+}

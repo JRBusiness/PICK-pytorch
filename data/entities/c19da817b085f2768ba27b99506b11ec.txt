@@ -1,0 +1,10 @@
+{
+    "PROVIDER_NAME": "BlueCross BlueShield",
+    "MEM_NAME": "BCA FAMILY TDI",
+    "MEM_ID": "ZGP828933919",
+    "GROUP_NUMBER": "341494",
+    "COVERAGE_DATE": "04/01/22",
+    "EFFECTIVE": "04/01/20",
+    "RXBIN": "011552",
+    "RXPCN": "BCTX"
+}

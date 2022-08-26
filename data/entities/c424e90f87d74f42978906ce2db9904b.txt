@@ -1,0 +1,7 @@
+{
+    "PROVIDER_NAME": "HealthPartners *",
+    "MEM_ID": "10760090",
+    "GROUP_NUMBER": "3190",
+    "MEM_NAME": "KIMBERLY L RIGBY",
+    "HEALTH_PLAN": "3M Choice Advantage HSA-Open Access Plus"
+}

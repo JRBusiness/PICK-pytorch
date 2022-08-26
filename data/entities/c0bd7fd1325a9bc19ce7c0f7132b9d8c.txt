@@ -1,0 +1,10 @@
+{
+    "PROVIDER_NAME": "Anthem",
+    "MEM_NAME": "DAVID N GAINSFORTH",
+    "MEM_ID": "RCV254W02984",
+    "GROUP_NUMBER": "OH2295M002",
+    "PLAN_CODE": "330",
+    "RXBIN": "020099",
+    "RXPCN": "WG",
+    "RXGROUP": "WL5A"
+}

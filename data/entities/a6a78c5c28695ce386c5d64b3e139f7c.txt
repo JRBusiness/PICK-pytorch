@@ -1,0 +1,11 @@
+{
+    "PROVIDER_NAME": "ADMINISTRATORS",
+    "PAYER_ID": "DCA62",
+    "PCP": "$0",
+    "MEM_NAME": "TAYLOR SPENCER",
+    "NETWORK": "$0",
+    "MEM_ID": "Employee+spouse",
+    "RXBIN": "017449",
+    "RXPCN": "6792000",
+    "RXGROUP": "PRXQBS"
+}

@@ -1,0 +1,9 @@
+{
+    "PROVIDER_NAME": "Health & Benefits",
+    "MEM_NAME": "KELCEY CHRISTENSEN",
+    "PEDIATRIC_MEMBER_DENTAL": "RX, Medical, and Dental",
+    "MEM_ID": "1741000232242",
+    "NETWORK": "Summit Network",
+    "RXBIN": "610014",
+    "RXGROUP": "PEHP000"
+}

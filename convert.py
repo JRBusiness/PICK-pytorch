@@ -58,9 +58,9 @@ def merge_boxes(box1, box2):
     ]
 
 
-def processing_image(directory, line, class_writer, index):
+def processing_image(line, class_writer, index):
     name = line['documentName'].split('.jpg_')[0]
-    writer = csv.writer(open(f"data/{directory}/boxes_and_transcripts/{name}.tsv", "w", newline=""))
+    writer = csv.writer(open(f"data/boxes_and_transcripts/{name}.tsv", "w", newline=""))
     final = []
     class_text = {}
     if line['annotation']:
@@ -92,7 +92,7 @@ def processing_image(directory, line, class_writer, index):
                     v[0].insert(0, inner_dex)
                     final.append(v[0])
     writer.writerows(final)
-    json.dump(class_text, open(f"data/{directory}/entities/{name}.txt", "w", newline=""), indent=4)
+    json.dump(class_text, open(f"data/entities/{name}.txt", "w", newline=""), indent=4)
     class_writer.writerow([index, "document", f"{name}.jpg"])
 
 
@@ -103,13 +103,13 @@ def converting_ubiai(data):
     index = 0
     for line in train:
         index += 1
-        processing_image(train_set, line, train_writer, index)
+        processing_image(line, train_writer, index)
     test_writer = csv.writer(open("data/test.csv", "w", newline=""))
     train_set = "test"
     index = 0
     for line in test:
         index += 1
-        processing_image(train_set, line, test_writer, index)
+        processing_image(line, test_writer, index)
 
 
 def slipt_wildreceipt():

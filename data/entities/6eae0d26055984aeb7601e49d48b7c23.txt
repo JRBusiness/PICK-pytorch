@@ -1,0 +1,12 @@
+{
+    "PROVIDER_NAME": "UnitedHealthcare\" C",
+    "HEALTH_PLAN": "(80840) 911-87726-04",
+    "MEM_ID": "922328939",
+    "GROUP_NUMBER": "904773",
+    "MEM_NAME": "JOHNNY J SANTOS",
+    "DEPENDENTS": "DIEGO SANTOS",
+    "PAYER_ID": "87726",
+    "RXBIN": "610279",
+    "RXPCN": "9999",
+    "RXGROUP": "UHEALTH"
+}

@@ -1,0 +1,6 @@
+{
+    "PROVIDER_NAME": "MEDICAID",
+    "MEM_NAME": "SAMANTHA MUNGUIA",
+    "MEM_ID": "ID: 0611473915",
+    "DOB": "06/27/1991"
+}

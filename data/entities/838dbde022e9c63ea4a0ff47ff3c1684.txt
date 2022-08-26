@@ -1,0 +1,9 @@
+{
+    "PROVIDER_NAME": "Blue Cross of Idaho",
+    "MEM_NAME": "Angela C Abel",
+    "MEM_ID": "WFC971520793",
+    "GROUP_NUMBER": "10033864",
+    "RXBIN": "020123",
+    "RXPCN": "IRXCOMM",
+    "RXGROUP": "RXBCID"
+}

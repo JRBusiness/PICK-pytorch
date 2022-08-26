@@ -1,0 +1,8 @@
+{
+    "RXGROUP": "326404-016-00100",
+    "ISSUER_ID": "(80840) 9140860054",
+    "MEM_ID": "W2370 21644",
+    "MEM_NAME": "RICHARD J DEAN",
+    "DEPENDENTS": "TYLER R DEAN",
+    "PCP": "$ 25.00"
+}

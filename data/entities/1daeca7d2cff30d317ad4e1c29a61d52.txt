@@ -1,0 +1,5 @@
+{
+    "PROVIDER_NAME": "Cigna Health and Life Insurance Co.",
+    "MEM_ID": "T60002564 03",
+    "MEM_NAME": "Alexis Stufflebeam"
+}

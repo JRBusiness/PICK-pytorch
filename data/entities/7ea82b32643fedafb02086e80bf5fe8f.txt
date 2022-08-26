@@ -1,0 +1,9 @@
+{
+    "PROVIDER_NAME": "Cigna Health and Life Insurance Co.",
+    "EFFECTIVE": "12/01/2020",
+    "GROUP_NUMBER": "3341163",
+    "PCP": "20%",
+    "MEM_ID": "U78657789 03",
+    "MEM_NAME": "Edee Burton",
+    "NETWORK": "In 80%/20% Out 50%/50%"
+}

@@ -1,0 +1,11 @@
+{
+    "PROVIDER_NAME": "Anthem",
+    "MEM_NAME": "JASON SNYDER",
+    "MEM_ID": "XKT109W09302",
+    "EFFECTIVE": "08/01/2021",
+    "GROUP_NUMBER": "L01815M003",
+    "HEALTH_PLAN": "102",
+    "RXBIN": "020099",
+    "RXPCN": "WG",
+    "RXGROUP": "WLBA"
+}

@@ -1,0 +1,12 @@
+{
+    "PROVIDER_NAME": "A UnitedHealthcare Company",
+    "ISSUER_ID": "(80840)911-39026-02",
+    "MEM_ID": "26001297",
+    "GROUP_NUMBER": "76-412623",
+    "MEM_NAME": "LESLY A MEDRANO",
+    "RXBIN": "610127",
+    "DEPENDENTS": "GUILLERMO RIVERA",
+    "RXPCN": "01960000",
+    "RXGROUP": "01962180",
+    "PCP": "$35"
+}
