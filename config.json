@@ -59,8 +59,8 @@
         "args": {
             "files_name":"data/train.csv",
             "boxes_and_transcripts_folder":"data/train/boxes_and_transcripts",
-            "images_folder":"data/images",
-            "entities_folder":"data/train/entities",
+            "images_folder":"images",
+            "entities_folder":"entities",
             "iob_tagging_type":"document_level",
             "resized_image_size": [480, 960],
             "ignore_error": false
@@ -71,8 +71,8 @@
         "args": {
             "files_name":"data/test.csv",
             "boxes_and_transcripts_folder":"data/test/boxes_and_transcripts",
-            "images_folder":"data/images",
-            "entities_folder":"data/test/entities",
+            "images_folder":"images",
+            "entities_folder":"entities",
             "iob_tagging_type":"document_level",
             "resized_image_size": [480, 960],
             "ignore_error": false
