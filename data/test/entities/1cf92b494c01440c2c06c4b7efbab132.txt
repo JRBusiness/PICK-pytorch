@@ -1,0 +1,10 @@
+{
+    "PROVIDER_NAME": "BlueCross BlueShield",
+    "SUBSCRIBER_NAME": "BRITTANY WILCOX",
+    "SUBCRIBER_ID": "HST823307636",
+    "GROUP_NUMBER": "121982",
+    "COVERAGE_DATE": "01/01/21",
+    "RXBIN": "004336",
+    "RXGROUP": "RX20CW",
+    "RXPCN": "ADV"
+}

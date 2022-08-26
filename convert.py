@@ -64,6 +64,7 @@ def processing_image(directory, line, class_writer, index):
     if line['annotation']:
         bboxs = line['annotation']
         if bboxs:
+            inner_dex = 0
             final = []
             class_text = {}
             bbox_line = {}
@@ -71,7 +72,7 @@ def processing_image(directory, line, class_writer, index):
             for item in bboxs:
                 label = item['label']
                 text_line[label] = []
-                bbox_line[label] = []
+                bbox_line[label] = [inner_dex, ]
                 seen = set()
                 for box in item['boundingBoxes']:
                     bbox = box['normalizedVertices']

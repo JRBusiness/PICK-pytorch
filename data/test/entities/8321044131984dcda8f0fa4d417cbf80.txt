@@ -1,0 +1,13 @@
+{
+    "PROVIDER_NAME": "Cigna Health and Life Insurance Co.",
+    "COVERAGE_DATE": "10/01/2021",
+    "GROUP_NUMBER": "3338819",
+    "ISSUER_ID": "(80840)",
+    "MEM_ID": "U80961815 01",
+    "PCP": "20%",
+    "MEM_NAME": "Erynn Pontius",
+    "NETWORK": "Network Savings Program",
+    "RXBIN": "017010",
+    "RXPCN": "0215COMM",
+    "RXGROUP": "3338819"
+}

@@ -1,0 +1,10 @@
+{
+    "PROVIDER_NAME": "Regence",
+    "HEALTH_PLAN": "HSA Plan 3.0",
+    "MEM_NAME": "CHRISTENSEN",
+    "GROUP_NUMBER": "10015632",
+    "RXBIN": "610648",
+    "RXPCN": "01890000",
+    "MEM_ID": "ZHL150148806",
+    "DEPENDENTS": "AIDEN M. CHRISTENSEN"
+}

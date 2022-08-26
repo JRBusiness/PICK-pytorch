@@ -1,0 +1,8 @@
+{
+    "PROVIDER_NAME": "Healthcare",
+    "MEM_NAME": "KARIN M ELDREDGE",
+    "MEM_ID": "908153114",
+    "GROUP_NUMBER": "730152",
+    "DEPENDENTS": "S ELDREDGE",
+    "PAYER_ID": "87726"
+}
