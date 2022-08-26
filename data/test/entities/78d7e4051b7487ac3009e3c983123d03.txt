@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "Regence",
-    "MEM_NAME": "JEREMY PEARSON",
-    "DEPENDENTS": "JEREMY PEARSON",
-    "MEM_ID": "USB220027791",
-    "GROUP_NUMBER": "10002583",
-    "RXBIN": "610648",
-    "RXPCN": "01890000"
-}

@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "california",
-    "GROUP_NUMBER": "W0069783",
-    "MEM_NAME": "AUSTIN N MORTENSEN",
-    "EFFECTIVE": "07/01/2020",
-    "MEM_ID": "TJV909308867",
-    "RXBIN": "004336",
-    "RXPCN": "77993333"
-}

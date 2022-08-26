@@ -1,5 +1,0 @@
-{
-    "MEM_ID": "082273150",
-    "MEM_NAME": "Felicity Long",
-    "GROUP_NUMBER": "LHSRX100"
-}

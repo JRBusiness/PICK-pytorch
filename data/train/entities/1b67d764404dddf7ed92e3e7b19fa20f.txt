@@ -1,6 +1,0 @@
-{
-    "PROVIDER_NAME": "MEDICAID",
-    "MEM_NAME": "SUSAN HARDY",
-    "MEM_ID": "0311752995",
-    "DOB": "09/20/1975"
-}

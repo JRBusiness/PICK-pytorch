@@ -1,6 +1,0 @@
-{
-    "PROVIDER_NAME": "Cigna Health and Life Insurance Co.",
-    "GROUP_NUMBER": "Group:3342930",
-    "MEM_ID": "S00010980 02",
-    "MEM_NAME": "Amber Draney"
-}

@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "Anthem",
-    "MEM_NAME": "DANIELA L GALLARDO",
-    "MEM_ID": "K4DAN0408723",
-    "GROUP_NUMBER": "212107M9A1",
-    "PLAN_CODE": "330"
-}

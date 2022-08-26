@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "Health Benefits",
-    "MEM_NAME": "JARED D VALANTINE",
-    "HEALTH_PLAN": "STAR Plan Exclusive Network",
-    "MEM_ID": "1741000306608",
-    "RXBIN": "610014",
-    "RXGROUP": "PEHP000"
-}

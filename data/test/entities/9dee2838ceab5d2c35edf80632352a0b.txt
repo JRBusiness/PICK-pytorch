@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "motivhealth R",
-    "MEM_NAME": "Steven Rowsell",
-    "MEM_ID": "000036375",
-    "GROUP_NUMBER": "KTECH10SN",
-    "RXBIN": "015202",
-    "RXPCN": "SGRX"
-}

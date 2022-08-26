@@ -1,6 +1,0 @@
-{
-    "PROVIDER_NAME": "Anthem",
-    "MEM_NAME": "PARK, SCOTT",
-    "MEM_ID": "JNT024",
-    "HEALTH_PLAN": "102"
-}

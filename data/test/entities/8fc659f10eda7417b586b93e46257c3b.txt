@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "Regence",
-    "MEM_NAME": "TORSON",
-    "GROUP_NUMBER": "10006245",
-    "RXBIN": "610648",
-    "MEM_ID": "ZHL210037051",
-    "DEPENDENTS": "AUSTAN TORSON"
-}

@@ -1,7 +1,0 @@
-{
-    "PROVIDER_NAME": "Anthem",
-    "MEM_NAME": "ADAM K VRIENS",
-    "HEALTH_PLAN": "Medical PPO Plan",
-    "MEM_ID": "CCV340M87380",
-    "GROUP_NUMBER": "174209M4A1"
-}

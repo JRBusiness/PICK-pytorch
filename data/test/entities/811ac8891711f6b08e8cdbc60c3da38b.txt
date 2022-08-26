@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "aetna \u00e2\u201a\u00ac",
-    "GROUP_NUMBER": "141307-13-001",
-    "ISSUER_ID": "9140860054",
-    "MEM_ID": "W2609 09022",
-    "MEM_NAME": "WILSON",
-    "DEPENDENTS": "WINRY A WILSON CFA",
-    "RXBIN": "610502"
-}

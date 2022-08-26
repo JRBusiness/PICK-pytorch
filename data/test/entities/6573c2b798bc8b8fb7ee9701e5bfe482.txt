@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "R MOLINA HEALTHCARE",
-    "MEM_NAME": "SANCHEZ",
-    "MEM_ID": "0705576491",
-    "HEALTH_PLAN": "Molina Medicaid Integrated Care",
-    "RXBIN": "004336",
-    "RXPCN": "ADV",
-    "RXGROUP": "RX0415"
-}

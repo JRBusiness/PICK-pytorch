@@ -1,9 +1,0 @@
-{
-    "PROVIDER_NAME": "UnitedHealthcare R",
-    "HEALTH_PLAN": "(80840) 911-87726-04",
-    "MEM_ID": "910610031",
-    "GROUP_NUMBER": "203922",
-    "MEM_NAME": "RICHARD S GARRARD",
-    "DEPENDENTS": "MARIA G GARRARD",
-    "PAYER_ID": "87726"
-}

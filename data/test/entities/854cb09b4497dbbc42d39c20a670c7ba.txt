@@ -1,8 +1,0 @@
-{
-    "PROVIDER_NAME": "Health & Benefits",
-    "MEM_NAME": "BRYAN MICHAEL SUMMERS",
-    "HEALTH_PLAN": "Traditional Plan",
-    "MEM_ID": "1741000746278",
-    "RXBIN": "610014",
-    "RXGROUP": "PEHP000"
-}

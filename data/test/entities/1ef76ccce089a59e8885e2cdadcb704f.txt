@@ -1,6 +1,0 @@
-{
-    "PROVIDER_NAME": "MEDICAID",
-    "MEM_NAME": "CALEB JIMENEZ",
-    "MEM_ID": "0312666049",
-    "DOB": "01/29/2021"
-}

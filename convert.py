@@ -67,28 +67,30 @@ def processing_image(directory, line, class_writer, index):
             inner_dex = 0
             final = []
             class_text = {}
-            bbox_line = {}
-            text_line = {}
             for item in bboxs:
+                inner_dex += 1
+                bbox_line = {}
+                text_line = {}
                 label = item['label']
                 text_line[label] = []
-                bbox_line[label] = [inner_dex, ]
+                bbox_line[label] = []
                 seen = set()
                 for box in item['boundingBoxes']:
                     bbox = box['normalizedVertices']
                     text = box['word']
                     text_line[label].append(text)
                     bbox = get_bbox(bbox)
-                    bbox_line[label].append(bbox)
-                    if label in seen:
+                    if label in seen and bbox:
                         text_line[label] = [" ".join([i for i in text_line[label]])]
-                        bbox_line[label] = [merge_boxes(bbox_line[label][0], bbox_line[label][1])]
-                    elif label not in seen:
+                        bbox_line[label] = [merge_boxes(bbox_line[label][0], bbox)]
+                    elif label not in seen and bbox:
+                        bbox_line[label].append(bbox)
                         seen.add(label)
                 bbox_line[label][0].extend([text_line[label][0], label])
-                class_text[label] = text_line[label][0  ]
-            for k, v in bbox_line.items():
-                final.append(v[0])
+                class_text[label] = text_line[label][0]
+                for k, v in bbox_line.items():
+                    v[0].insert(0, inner_dex)
+                    final.append(v[0])
             writer.writerows(final)
             json.dump(class_text, open(f"data/{directory}/entities/{name}.txt", "w", newline=""), indent=4)
             class_writer.writerow([index, "document", f"{name}.jpg"])
