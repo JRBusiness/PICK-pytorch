@@ -58,9 +58,9 @@
         "type": "PICKDataset",
         "args": {
             "files_name":"/content/PICK-pytorch/data/train.csv",
-            "boxes_and_transcripts_folder":"/content/PICK-pytorch/data/train/boxes_and_transcripts",
-            "images_folder":"/content/PICK-pytorch/data/images",
-            "entities_folder":"/content/PICK-pytorch/data/test/entities",
+            "boxes_and_transcripts_folder":"/content/PICK-pytorch/data/train/boxes_and_transcripts/",
+            "images_folder":"/content/PICK-pytorch/data/images/",
+            "entities_folder":"/content/PICK-pytorch/data/test/entities/",
             "iob_tagging_type":"document_level",
             "resized_image_size": [480, 960],
             "ignore_error": false
@@ -70,9 +70,9 @@
         "type": "PICKDataset",
         "args": {
             "files_name":"/content/PICK-pytorch/data/test.csv",
-            "boxes_and_transcripts_folder":"/content/PICK-pytorch/data/train/boxes_and_transcripts",
-            "images_folder":"/content/PICK-pytorch/data/images",
-            "entities_folder":"/content/PICK-pytorch/data/train/entities",
+            "boxes_and_transcripts_folder":"/content/PICK-pytorch/data/train/boxes_and_transcripts/",
+            "images_folder":"/content/PICK-pytorch/data/images/",
+            "entities_folder":"/content/PICK-pytorch/data/train/entities/",
             "iob_tagging_type":"document_level",
             "resized_image_size": [480, 960],
             "ignore_error": false
