@@ -57,10 +57,10 @@
     "train_dataset": {
         "type": "PICKDataset",
         "args": {
-            "files_name":"/content/PICK-pytorch/data/train.csv",
-            "boxes_and_transcripts_folder":"/content/PICK-pytorch/data/train/boxes_and_transcripts",
-            "images_folder":"/content/PICK-pytorch/data/images",
-            "entities_folder":"/content/PICK-pytorch/data/train/entities",
+            "files_name":"data/train.csv",
+            "boxes_and_transcripts_folder":"data/train/boxes_and_transcripts",
+            "images_folder":"data/images",
+            "entities_folder":"data/train/entities",
             "iob_tagging_type":"document_level",
             "resized_image_size": [480, 960],
             "ignore_error": false
@@ -69,10 +69,10 @@
     "validation_dataset": {
         "type": "PICKDataset",
         "args": {
-            "files_name":"/content/PICK-pytorch/data/test.csv",
-            "boxes_and_transcripts_folder":"/content/PICK-pytorch/data/test/boxes_and_transcripts",
-            "images_folder":"/content/PICK-pytorch/data/images",
-            "entities_folder":"/content/PICK-pytorch/data/test/entities",
+            "files_name":"data/test.csv",
+            "boxes_and_transcripts_folder":"data/test/boxes_and_transcripts",
+            "images_folder":"data/images",
+            "entities_folder":"data/test/entities",
             "iob_tagging_type":"document_level",
             "resized_image_size": [480, 960],
             "ignore_error": false
